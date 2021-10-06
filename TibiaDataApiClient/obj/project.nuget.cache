@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zziz59Lovxcavs3AVAN40tiE+8PZtRaFZvEDYxxvJ2xwy5P+FioxYibMe7nWcH7wDxhg/agfv2BPfmMlQ06MBw==",
+  "success": true,
+  "projectFilePath": "D:\\TibiaDiscordBot\\TibiaDataApiClient\\TibiaDataApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\refit\\6.0.94\\refit.6.0.94.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\refit.newtonsoft.json\\6.0.94\\refit.newtonsoft.json.6.0.94.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

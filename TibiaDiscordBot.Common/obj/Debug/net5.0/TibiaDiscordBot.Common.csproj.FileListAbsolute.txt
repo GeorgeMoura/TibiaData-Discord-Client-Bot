@@ -1,0 +1,12 @@
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\bin\Debug\net5.0\TibiaDiscordBot.Common.deps.json
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\bin\Debug\net5.0\TibiaDiscordBot.Common.dll
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\bin\Debug\net5.0\ref\TibiaDiscordBot.Common.dll
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\bin\Debug\net5.0\TibiaDiscordBot.Common.pdb
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.csproj.AssemblyReference.cache
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.AssemblyInfoInputs.cache
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.AssemblyInfo.cs
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.csproj.CoreCompileInputs.cache
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.dll
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\ref\TibiaDiscordBot.Common.dll
+D:\TibiaDiscordBot\TibiaDiscordBot.Common\obj\Debug\net5.0\TibiaDiscordBot.Common.pdb

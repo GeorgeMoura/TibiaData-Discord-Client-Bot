@@ -1,0 +1,12 @@
+D:\TibiaDiscordBot\TibiaDataApiClient\bin\Debug\net5.0\TibiaDataApiClient.deps.json
+D:\TibiaDiscordBot\TibiaDataApiClient\bin\Debug\net5.0\TibiaDataApiClient.dll
+D:\TibiaDiscordBot\TibiaDataApiClient\bin\Debug\net5.0\ref\TibiaDataApiClient.dll
+D:\TibiaDiscordBot\TibiaDataApiClient\bin\Debug\net5.0\TibiaDataApiClient.pdb
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.csproj.AssemblyReference.cache
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.AssemblyInfoInputs.cache
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.AssemblyInfo.cs
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.csproj.CoreCompileInputs.cache
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.dll
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\ref\TibiaDataApiClient.dll
+D:\TibiaDiscordBot\TibiaDataApiClient\obj\Debug\net5.0\TibiaDataApiClient.pdb
