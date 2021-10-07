@@ -51,6 +51,14 @@ namespace TutorialBot.Modules
             await ReplyAsync(reply);
         }
 
+        [Command("findparty")]
+        public async Task GetShareablePlayersToParty([Remainder] string playersName)
+        {
+            string reply = await tibiaDataService.GetShareablePlayersToParty(playersName);
+
+            await discordReplyAsync(reply);
+        }
+
         private string CheckSuccessAndReturnResponse<T>(T obj)
         {
             string botReply;

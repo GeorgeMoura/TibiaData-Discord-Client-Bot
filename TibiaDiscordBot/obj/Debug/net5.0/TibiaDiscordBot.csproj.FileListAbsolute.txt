@@ -32,3 +32,37 @@ D:\TibiaDiscordBot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDataApiClient.pdb
 D:\TibiaDiscordBot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.Common.dll
 D:\TibiaDiscordBot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.Common.pdb
 D:\TibiaDiscordBot\TibiaDiscordBot\bin\Debug\net5.0\RestSharp.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.exe
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.deps.json
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.runtimeconfig.json
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.runtimeconfig.dev.json
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\ref\TibiaDiscordBot.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.pdb
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Discord.Net.Commands.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Discord.Net.Core.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Discord.Net.Rest.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Discord.Net.Webhook.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Refit.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\Refit.Newtonsoft.Json.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\RestSharp.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\System.Interactive.Async.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\System.Linq.Async.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDataApiClient.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.Common.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDataApiClient.pdb
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\bin\Debug\net5.0\TibiaDiscordBot.Common.pdb
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.csproj.AssemblyReference.cache
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.AssemblyInfoInputs.cache
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.AssemblyInfo.cs
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.csproj.CopyComplete
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\ref\TibiaDiscordBot.dll
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.pdb
+D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDiscordBot\obj\Debug\net5.0\TibiaDiscordBot.genruntimeconfig.cache

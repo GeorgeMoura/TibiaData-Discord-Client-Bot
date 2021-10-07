@@ -8,4 +8,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = TibiaDataApiClient
-build_property.ProjectDir = D:\TibiaDiscordBot\TibiaDataApiClient\
+build_property.ProjectDir = D:\GitHub Repos\TibiaData-Discord-Client-Bot\TibiaDataApiClient\

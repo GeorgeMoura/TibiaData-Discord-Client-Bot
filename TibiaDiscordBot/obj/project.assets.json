@@ -1692,11 +1692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TibiaDiscordBot\\TibiaDiscordBot\\TibiaDiscordBot.csproj",
+      "projectUniqueName": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDiscordBot\\TibiaDiscordBot.csproj",
       "projectName": "TibiaDiscordBot",
-      "projectPath": "D:\\TibiaDiscordBot\\TibiaDiscordBot\\TibiaDiscordBot.csproj",
+      "projectPath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDiscordBot\\TibiaDiscordBot.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\TibiaDiscordBot\\TibiaDiscordBot\\obj\\",
+      "outputPath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDiscordBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1718,11 +1718,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\TibiaDiscordBot\\TibiaDataApiClient\\TibiaDataApiClient.csproj": {
-              "projectPath": "D:\\TibiaDiscordBot\\TibiaDataApiClient\\TibiaDataApiClient.csproj"
+            "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDataApiClient\\TibiaDataApiClient.csproj": {
+              "projectPath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDataApiClient\\TibiaDataApiClient.csproj"
             },
-            "D:\\TibiaDiscordBot\\TibiaDiscordBot.Common\\TibiaDiscordBot.Common.csproj": {
-              "projectPath": "D:\\TibiaDiscordBot\\TibiaDiscordBot.Common\\TibiaDiscordBot.Common.csproj"
+            "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDiscordBot.Common\\TibiaDiscordBot.Common.csproj": {
+              "projectPath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDiscordBot.Common\\TibiaDiscordBot.Common.csproj"
             }
           }
         }

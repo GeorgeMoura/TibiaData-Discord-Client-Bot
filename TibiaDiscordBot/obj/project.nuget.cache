@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWGdPcI5va6GHY7I02AWoAawUe18ol7qSFuqaHEBXm0qS0XKwf3SzyfIH5ST5GgRkZ3baiRZNIPAb/lhMAYoLw==",
+  "dgSpecHash": "kjaLit9oTCFRgnSsEn9ho2rGbl9g/oWM0V075xi/n7AxvKeyfZsAWtpp+XbU2sncvIvlwhBlZ8YcaL8ylH6M/w==",
   "success": true,
-  "projectFilePath": "D:\\TibiaDiscordBot\\TibiaDiscordBot\\TibiaDiscordBot.csproj",
+  "projectFilePath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDiscordBot\\TibiaDiscordBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\discord.net\\2.4.0\\discord.net.2.4.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\discord.net.commands\\2.4.0\\discord.net.commands.2.4.0.nupkg.sha512",

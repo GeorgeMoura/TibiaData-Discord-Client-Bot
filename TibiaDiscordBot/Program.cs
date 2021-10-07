@@ -33,7 +33,7 @@ namespace TutorialBot
                 .AddScoped<TibiaDataService>()
                 .BuildServiceProvider();
 
-            string token = "ODg0NDY2NjI4NjMxMzYzNjA0.YTY5vA.rVD1Tuc9qNt1cVqzSN4IwK6ojug";
+            string token = "";
 
             _client.Log += _client_Log;
 

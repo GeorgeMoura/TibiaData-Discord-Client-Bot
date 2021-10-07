@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TibiaDiscordBot\\TibiaDataApiClient\\TibiaDataApiClient.csproj",
+      "projectUniqueName": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDataApiClient\\TibiaDataApiClient.csproj",
       "projectName": "TibiaDataApiClient",
-      "projectPath": "D:\\TibiaDiscordBot\\TibiaDataApiClient\\TibiaDataApiClient.csproj",
+      "projectPath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDataApiClient\\TibiaDataApiClient.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\TibiaDiscordBot\\TibiaDataApiClient\\obj\\",
+      "outputPath": "D:\\GitHub Repos\\TibiaData-Discord-Client-Bot\\TibiaDataApiClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
